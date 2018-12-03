@@ -20,7 +20,7 @@ Extremely simple (node-based) repo to create barebones ``html`` pages for ``js``
 
 # example:
 
-        html.js hello-world test.js > input.html
+        html.js helloWorld helloworld.js > input.html
         beautify.mfs input.html index.html
         python -m http.server 8090
 
