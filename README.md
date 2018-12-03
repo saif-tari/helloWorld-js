@@ -16,7 +16,7 @@ Extremely simple (node-based) repo to create barebones ``html`` pages for ``js``
 # purpose:
 
         Run 'html.js' to create a simple html page.
-        Run 'beautify.mfs' to prettify an html page.
+        Run 'beautify.mjs' to prettify the created html page.
 
 # example:
 
