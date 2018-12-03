@@ -21,6 +21,6 @@ Extremely simple (node-based) repo to create barebones ``html`` pages for ``js``
 # example:
 
         html.js helloWorld helloworld.js > input.html
-        beautify.mfs input.html index.html
+        beautify.mjs input.html index.html
         python -m http.server 8090
 
