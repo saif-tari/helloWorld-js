@@ -50,9 +50,9 @@ nvm use 11.3.0 # or whatever
 
 ## script use
 
-Run 'html.js' to create a simple html page.
+Run ``html.js`` to create a simple html page.
 
-Run 'beautify.mjs' to prettify the created html page.
+Run ``beautify.mjs`` to prettify the created html page.
 
 ## example
 
